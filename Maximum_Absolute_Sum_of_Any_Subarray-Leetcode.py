@@ -1,3 +1,5 @@
+# Problem link - https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
+
 def subSum(idx1, idx2, arr):
     si = min(idx1,idx2)
     ei = max(idx1,idx2)
